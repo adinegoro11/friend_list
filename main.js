@@ -80,49 +80,49 @@ const table = [
     'Ani', '43', 'F', 5, 6,
     'Putri', '43', 'F', 6, 6,
     'Ratih', '32', 'F', 7, 6,
-    // 'Os', 'Osmium', '190.23', 8, 6,
-    // 'Ir', 'Iridium', '192.217', 9, 6,
-    // 'Pt', 'Platinum', '195.084', 10, 6,
-    // 'Au', 'Gold', '196.966569', 11, 6,
-    // 'Hg', 'Mercury', '200.59', 12, 6,
-    // 'Tl', 'Thallium', '204.3833', 13, 6,
-    // 'Pb', 'Lead', '207.2', 14, 6,
-    // 'Bi', 'Bismuth', '208.9804', 15, 6,
-    // 'Po', 'Polonium', '(209)', 16, 6,
-    // 'At', 'Astatine', '(210)', 17, 6,
-    // 'Rn', 'Radon', '(222)', 18, 6,
-    // 'Fr', 'Francium', '(223)', 1, 7,
-    // 'Ra', 'Radium', '(226)', 2, 7,
-    // 'Ac', 'Actinium', '(227)', 4, 10,
-    // 'Th', 'Thorium', '232.03806', 5, 10,
-    // 'Pa', 'Protactinium', '231.0588', 6, 10,
-    // 'U', 'Uranium', '238.02891', 7, 10,
-    // 'Np', 'Neptunium', '(237)', 8, 10,
-    // 'Pu', 'Plutonium', '(244)', 9, 10,
-    // 'Am', 'Americium', '(243)', 10, 10,
-    // 'Cm', 'Curium', '(247)', 11, 10,
-    // 'Bk', 'Berkelium', '(247)', 12, 10,
-    // 'Cf', 'Californium', '(251)', 13, 10,
-    // 'Es', 'Einstenium', '(252)', 14, 10,
-    // 'Fm', 'Fermium', '(257)', 15, 10,
-    // 'Md', 'Mendelevium', '(258)', 16, 10,
-    // 'No', 'Nobelium', '(259)', 17, 10,
-    // 'Lr', 'Lawrencium', '(262)', 18, 10,
-    // 'Rf', 'Rutherfordium', '(267)', 4, 7,
-    // 'Db', 'Dubnium', '(268)', 5, 7,
-    // 'Sg', 'Seaborgium', '(271)', 6, 7,
-    // 'Bh', 'Bohrium', '(272)', 7, 7,
-    // 'Hs', 'Hassium', '(270)', 8, 7,
-    // 'Mt', 'Meitnerium', '(276)', 9, 7,
-    // 'Ds', 'Darmstadium', '(281)', 10, 7,
-    // 'Rg', 'Roentgenium', '(280)', 11, 7,
-    // 'Cn', 'Copernicium', '(285)', 12, 7,
-    // 'Nh', 'Nihonium', '(286)', 13, 7,
-    // 'Fl', 'Flerovium', '(289)', 14, 7,
-    // 'Mc', 'Moscovium', '(290)', 15, 7,
-    // 'Lv', 'Livermorium', '(293)', 16, 7,
-    // 'Ts', 'Tennessine', '(294)', 17, 7,
-    // 'Og', 'Oganesson', '(294)', 18, 7
+    'Oslo', '33', 'F', 8, 6,
+    'Inara', '44', 'F', 9, 6,
+    'Putra', '26', 'F', 10, 6,
+    'Aufa', '43', 'F', 11, 6,
+    'Wulan', '21', 'F', 12, 6,
+    'Tiara', '28', 'F', 13, 6,
+    'Firman', '42', 'F', 14, 6,
+    'Yuni', '24', 'F', 15, 6,
+    'Santi', '45', 'F', 16, 6,
+    'Andri', '30', 'M', 17, 6,
+    'Rindi', '35', 'F', 18, 6,
+    'Farah', '27', 'F', 1, 7,
+    'Randi', '32', 'F', 2, 7,
+    'Astri', '52', 'F', 4, 10,
+    'Siska', '28', 'F', 5, 10,
+    'Ahmad', '14', 'M', 6, 10,
+    'Usep', '42', 'M', 7, 10,
+    'Aji', '54', 'M', 8, 10,
+    'Puan', '55', 'F', 9, 10,
+    'Amin', '43', 'M', 10, 10,
+    'Mega', '24', 'F', 11, 10,
+    'Susi', '21', 'F', 12, 10,
+    'Teguh', '32', 'M', 13, 10,
+    'Sendy', '33', 'M', 14, 10,
+    'Fahmi', '33', 'M', 15, 10,
+    'Husen', '36', 'M', 16, 10,
+    'Nova', '23', 'F', 17, 10,
+    'Lisna', '35', 'F', 18, 10,
+    'Raden', '44', 'M', 4, 7,
+    'Sari', '55', 'F', 5, 7,
+    'Ida', '44', 'F', 6, 7,
+    'Doni', '32', 'M', 7, 7,
+    'Rizki', '54', 'M', 8, 7,
+    'Raziq', '32', 'M', 9, 7,
+    'Dini', '43', 'F', 10, 7,
+    'Alba', '21', 'M', 11, 7,
+    'Vini', '54', 'F', 12, 7,
+    'Abror', '32', 'M', 13, 7,
+    'Dian', '27', 'F', 14, 7,
+    'Sulis', '58', 'F', 15, 7,
+    'Listi', '47', 'F', 16, 7,
+    'Aswin', '44', 'M', 17, 7,
+    'Tian', '32', 'M', 18, 7
 ];
 
 let camera, scene, renderer;
@@ -227,16 +227,17 @@ function init() {
     }
 
     // cone
-    for (let i = 0; i < objects.length; i++) {
-        const theta = i * 0.175 + Math.PI;
+    for (let i = 0, l = objects.length; i < l; i++) {
+        const theta = i * 0.5 + Math.PI;
         const y = - (i * 8) + 450;
+        const turunan = (3 * i) + 100;
 
         const object = new THREE.Object3D();
-        object.position.setFromCylindricalCoords(800, theta, y);
+        object.position.setFromCylindricalCoords(turunan, theta, y);
 
-        vector.x = object.position.x * 2;
+        vector.x = object.position.x * 10;
         vector.y = object.position.y;
-        vector.z = object.position.z * 2;
+        vector.z = object.position.z * 10;
 
         object.lookAt(vector);
         targets.cone.push(object);
@@ -244,17 +245,12 @@ function init() {
 
     // grid
     for (let i = 0; i < objects.length; i++) {
-
         const object = new THREE.Object3D();
-
         object.position.x = ((i % 5) * 400) - 800;
         object.position.y = (- (Math.floor(i / 5) % 5) * 400) + 800;
         object.position.z = (Math.floor(i / 25)) * 1000 - 2000;
-
         targets.grid.push(object);
-
     }
-
 
     //
 
